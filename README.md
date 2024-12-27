@@ -1,4 +1,4 @@
-# SQL Questions  
+#  Pizza Sales SQL Questions  
 
 A collection of SQL interview questions, exercises, and practice problems to sharpen your database skills. This repository is designed to help individuals prepare for SQL-related technical interviews and enhance their query writing abilities.
 
